@@ -1,0 +1,14 @@
+f:\zeProtect\bin\Debug\net8.0\zeProtect.exe
+F:\zeProtect\bin\Debug\net8.0\zeProtect.deps.json
+F:\zeProtect\bin\Debug\net8.0\zeProtect.runtimeconfig.json
+f:\zeProtect\bin\Debug\net8.0\zeProtect.dll
+f:\zeProtect\bin\Debug\net8.0\zeProtect.pdb
+f:\zeProtect\obj\Debug\net8.0\zeProtect.GeneratedMSBuildEditorConfig.editorconfig
+f:\zeProtect\obj\Debug\net8.0\zeProtect.AssemblyInfoInputs.cache
+f:\zeProtect\obj\Debug\net8.0\zeProtect.AssemblyInfo.cs
+f:\zeProtect\obj\Debug\net8.0\zeProtect.csproj.CoreCompileInputs.cache
+f:\zeProtect\obj\Debug\net8.0\zeProtect.dll
+f:\zeProtect\obj\Debug\net8.0\refint\zeProtect.dll
+f:\zeProtect\obj\Debug\net8.0\zeProtect.pdb
+F:\zeProtect\obj\Debug\net8.0\zeProtect.genruntimeconfig.cache
+F:\zeProtect\obj\Debug\net8.0\ref\zeProtect.dll
