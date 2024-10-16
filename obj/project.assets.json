@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\huyta\\.nuget\\packages\\": {},
-    "E:\\Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\zereft29\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\zeProtect\\zeProtect.csproj",
+      "projectUniqueName": "E:\\Phát triển mã nguồn\\zeProtect\\zeProtect.csproj",
       "projectName": "zeProtect",
-      "projectPath": "F:\\zeProtect\\zeProtect.csproj",
-      "packagesPath": "C:\\Users\\huyta\\.nuget\\packages\\",
-      "outputPath": "F:\\zeProtect\\obj\\",
+      "projectPath": "E:\\Phát triển mã nguồn\\zeProtect\\zeProtect.csproj",
+      "packagesPath": "C:\\Users\\zereft29\\.nuget\\packages\\",
+      "outputPath": "E:\\Phát triển mã nguồn\\zeProtect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\huyta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zereft29\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

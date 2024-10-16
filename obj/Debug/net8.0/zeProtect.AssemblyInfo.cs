@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zeProtect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1756707a0e054a32d5266bd009849d802117e412")]
 [assembly: System.Reflection.AssemblyProductAttribute("zeProtect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zeProtect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
