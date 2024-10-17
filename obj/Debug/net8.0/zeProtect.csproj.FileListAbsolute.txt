@@ -12,3 +12,4 @@ f:\zeProtect\obj\Debug\net8.0\refint\zeProtect.dll
 f:\zeProtect\obj\Debug\net8.0\zeProtect.pdb
 F:\zeProtect\obj\Debug\net8.0\zeProtect.genruntimeconfig.cache
 F:\zeProtect\obj\Debug\net8.0\ref\zeProtect.dll
+f:\zeProtect\obj\Debug\net8.0\zeProtect.sourcelink.json

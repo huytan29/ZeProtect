@@ -1,0 +1,15 @@
+F:\zeProtect\protocol\server\server\bin\Debug\net8.0\server.exe
+F:\zeProtect\protocol\server\server\bin\Debug\net8.0\server.deps.json
+F:\zeProtect\protocol\server\server\bin\Debug\net8.0\server.runtimeconfig.json
+F:\zeProtect\protocol\server\server\bin\Debug\net8.0\server.dll
+F:\zeProtect\protocol\server\server\bin\Debug\net8.0\server.pdb
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.sourcelink.json
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.dll
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\refint\server.dll
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.pdb
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+F:\zeProtect\protocol\server\server\obj\Debug\net8.0\ref\server.dll

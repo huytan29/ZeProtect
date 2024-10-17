@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\zeProtect\\zeProtect.csproj": {}
+    "F:\\zeProtect\\protocol\\client\\client\\client.csproj": {}
   },
   "projects": {
-    "F:\\zeProtect\\zeProtect.csproj": {
+    "F:\\zeProtect\\protocol\\client\\client\\client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\zeProtect\\zeProtect.csproj",
-        "projectName": "zeProtect",
-        "projectPath": "F:\\zeProtect\\zeProtect.csproj",
+        "projectUniqueName": "F:\\zeProtect\\protocol\\client\\client\\client.csproj",
+        "projectName": "client",
+        "projectPath": "F:\\zeProtect\\protocol\\client\\client\\client.csproj",
         "packagesPath": "C:\\Users\\huyta\\.nuget\\packages\\",
-        "outputPath": "F:\\zeProtect\\obj\\",
+        "outputPath": "F:\\zeProtect\\protocol\\client\\client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Visual Studio\\Shared\\NuGetPackages"
